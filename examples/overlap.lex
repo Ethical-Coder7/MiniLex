@@ -1,0 +1,4 @@
+EQ = =
+EQEQ = ==
+ARROW = =>
+WS = [ 	]+
